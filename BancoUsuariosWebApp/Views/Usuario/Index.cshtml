@@ -1,0 +1,57 @@
+﻿@using Dominio;
+@model BancoUsuariosWebApp.Models.UsuarioIndexViewModel;
+
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@using (Html.BeginForm("Index", "Usuario", FormMethod.Get))
+{
+    <p>
+        Buscar nombre: @Html.TextBox("nombre")
+        <input type="submit" value="Buscar" />
+    </p>
+}
+
+@if (Model.Usuarios != null)
+{
+    <table class="table table-striped mt-3">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+                <th>Contraseña</th>
+                <th>ContraseñaHasheada</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Usuario in Model.Usuarios)
+            {
+                <tr>
+                    <td>@Usuario.UsuarioId</td>
+                    <td>@Usuario.Nombre</td>
+                    <td>@Usuario.Apellido</td>
+                    <td>@Usuario.Email</td>
+                    <td>@Usuario.Contraseña</td>
+                    <td>@Usuario.ContraseñaHasheada</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@Usuario.UsuarioId" class="btn btn-info">Editar</a>
+                    </td>
+                    <td>
+                        <form asp-action="Delete" asp-route-id="@Usuario.UsuarioId" method="get">
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h2 class="text-danger">No hay usuarios para mostrar aún</h2>
+}

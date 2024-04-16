@@ -1,0 +1,12 @@
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\pableke\Desktop\CRUDUsuario\CRUDUsuario\Dominio\obj\Debug\net8.0\ref\Dominio.dll
