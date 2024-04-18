@@ -7,7 +7,7 @@
         public string Apellido { get; set; }
         public string Email { get; set; }
         public string Contraseña { get; set; }
-        public string ContraseñaHasheada {  get; set; }
+        public string ContraseñaHasheada { get; set; }
 
         public void Copiar(Usuario usuario)
         {
@@ -15,6 +15,8 @@
             Nombre = usuario.Nombre;
             Apellido = usuario.Apellido;
             Email = usuario.Email;
+            Contraseña = usuario.Contraseña;
+            ContraseñaHasheada = usuario.ContraseñaHasheada;
         }
         public void Validar()
         {
@@ -33,6 +35,10 @@
             if (Contraseña == null)
             {
                 throw new ArgumentNullException("Contraseña vacía");
+            }
+            if (ContraseñaHasheada == null)
+            {
+                throw new ArgumentNullException("Contraseña hasheada vacía");
             }
         }
     }

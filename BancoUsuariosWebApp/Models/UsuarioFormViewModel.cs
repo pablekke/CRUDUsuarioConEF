@@ -27,13 +27,9 @@ namespace BancoUsuariosWebApp.Models
         [Display(Name = "Contraseña")]
         public string Contraseña { get; set; }
 
-        public UsuarioFormViewModel()
-        {
+        public UsuarioFormViewModel(){}
 
-        }
-
-        public UsuarioFormViewModel(UsuarioDTO usuarioDTO)
-        {
+        public UsuarioFormViewModel(UsuarioDTO usuarioDTO){
             Nombre = usuarioDTO.Nombre;
             Apellido = usuarioDTO.Apellido;
             Email = usuarioDTO.Email;
@@ -53,19 +49,6 @@ namespace BancoUsuariosWebApp.Models
                 };
             return usuarioDto;
         }
-        public UsuarioDTO CrearUsuarioDTO2()
-        {
-            UsuarioDTO usuarioDto =
-                new UsuarioDTO()
-                {
-                    UsuarioId = UsuarioId,
-                    Nombre = Nombre,
-                    Apellido = Apellido,
-                    Email = Email,
-                };
-            return usuarioDto;
-        }
-
         private string HashearContraseña(string contraseña) {
             return BCrypt.Net.BCrypt.HashPassword(contraseña);
         }

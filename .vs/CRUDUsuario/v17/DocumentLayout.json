@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\models\\usuarioformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\models\\usuarioformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\accesoadatos\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\servicios\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|solutionrelative:servicios\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\models\\usuarioindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\models\\usuarioindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|solutionrelative:servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC277610-297C-44B4-AE08-741E833362FD}|Dominio\\Dominio.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC277610-297C-44B4-AE08-741E833362FD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC277610-297C-44B4-AE08-741E833362FD}|Dominio\\Dominio.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\dominio\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC277610-297C-44B4-AE08-741E833362FD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\accesoadatos\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\accesoadatos\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA05B320-AE68-4313-A86A-F7AAA7F4CF25}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|solutionrelative:servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\servicios\\iserviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|solutionrelative:servicios\\iserviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\models\\usuarioindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\models\\usuarioindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\bancousuarioswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5B49ED5-94A9-4ABA-A009-BF8AAA19ECBD}|BancoUsuariosWebApp\\BancoUsuariosWebApp.csproj|solutionrelative:bancousuarioswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|c:\\users\\pableke\\desktop\\crudusuario\\crudusuario\\servicios\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD90D6A-D1E3-4A16-B2FF-A5955BD5B5C4}|Servicios\\Servicios.csproj|solutionrelative:servicios\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,56 +70,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T00:30:58.339Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Usuario\\Index.cshtml",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Index.cshtml",
               "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T23:50:20.472Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Edit.cshtml",
               "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Usuario\\Edit.cshtml",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Edit.cshtml",
               "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-15T17:28:04.997Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "BancoUsuariosWebApp\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAUwEsAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T23:22:37.42Z",
               "IsPinned": true,
@@ -123,31 +124,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "UsuarioIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
+              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
+              "RelativeToolTip": "BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:41:41.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UsuarioFormViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioFormViewModel.cs",
               "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Models\\UsuarioFormViewModel.cs",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioFormViewModel.cs",
               "RelativeToolTip": "BancoUsuariosWebApp\\Models\\UsuarioFormViewModel.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAwwDwAAAAUAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T00:00:57.814Z"
+              "WhenOpened": "2024-04-13T00:00:57.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T00:30:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\Contexto.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\Contexto.cs",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\Contexto.cs",
+              "RelativeToolTip": "AccesoADatos\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:34:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\IServicioUsuario.cs",
+              "RelativeDocumentMoniker": "Servicios\\IServicioUsuario.cs",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\IServicioUsuario.cs",
+              "RelativeToolTip": "Servicios\\IServicioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:50:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RepositorioUsuario.cs",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\RepositorioUsuario.cs",
               "RelativeDocumentMoniker": "AccesoADatos\\RepositorioUsuario.cs",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\RepositorioUsuario.cs",
               "RelativeToolTip": "AccesoADatos\\RepositorioUsuario.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:53:19.121Z"
+              "WhenOpened": "2024-04-15T16:53:19.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "ServicioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\ServicioUsuario.cs",
+              "RelativeDocumentMoniker": "Servicios\\ServicioUsuario.cs",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\ServicioUsuario.cs",
+              "RelativeToolTip": "Servicios\\ServicioUsuario.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:55:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UsuarioPerfil.cs",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\UsuarioPerfil.cs",
               "RelativeDocumentMoniker": "Servicios\\UsuarioPerfil.cs",
@@ -159,63 +227,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServicioUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\ServicioUsuario.cs",
-              "RelativeDocumentMoniker": "Servicios\\ServicioUsuario.cs",
-              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Servicios\\ServicioUsuario.cs",
-              "RelativeToolTip": "Servicios\\ServicioUsuario.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAnwEwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:55:32.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T02:02:06.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Dominio\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "Dominio\\UsuarioDTO.cs",
               "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Dominio\\UsuarioDTO.cs",
               "RelativeToolTip": "Dominio\\UsuarioDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:44:06.44Z"
+              "WhenOpened": "2024-04-14T23:44:06.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Dominio\\Usuario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\Dominio\\Usuario.cs",
-              "RelativeToolTip": "Dominio\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "DocumentIndex": 7,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\AccesoADatos\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "AccesoADatos\\IRepositorioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:37:14.656Z"
+              "WhenOpened": "2024-04-17T23:35:06.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
-              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
-              "RelativeToolTip": "BancoUsuariosWebApp\\Models\\UsuarioIndexViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T23:41:41.735Z"
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T17:48:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pableke\\Desktop\\CRUDUsuario\\CRUDUsuario\\BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BancoUsuariosWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:02:06.599Z",
+              "EditorCaption": ""
             }
           ]
         }

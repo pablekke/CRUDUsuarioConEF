@@ -39,6 +39,12 @@ namespace Servicios
                 throw new Exception("Ya existe un usuario con el mismo email.");
             }
         }
+        private void ExcepcionSiEmailExisteUpdate(string EmailActual, string EmailNuevo) {
+            if (EmailActual != EmailNuevo)
+            {
+                ExcepcionSiEmailExiste(EmailNuevo);
+            }
+        }
         public void Add(UsuarioDTO usuarioDto)
         {
             ExcepcionSiUsuarioNulo(usuarioDto);
@@ -64,14 +70,11 @@ namespace Servicios
 
             Usuario usuario = _repositorio.Get(id);
             ExcepcionSiUsuarioNulo(usuario);
-            if (usuario.Email != usuarioDTO.Email)
-            {
-                ExcepcionSiEmailExiste(usuarioDTO.Email);
-            }
+            ExcepcionSiEmailExisteUpdate(usuario.Email, usuarioDTO.Email);
 
             Usuario usuarioReemplazo = _mapeador.Map<Usuario>(usuarioDTO);
             usuario.Copiar(usuarioReemplazo);
-            _repositorio.Update(usuarioReemplazo);
+            _repositorio.Update(usuario);
         }
 
         public void Delete(int id)

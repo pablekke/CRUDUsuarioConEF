@@ -15,20 +15,11 @@ namespace BancoUsuariosWebApp.Controllers
         }
 
         // GET: UsuarioController
-        public ActionResult Index(string nombre = "")
+        public ActionResult Index(string n = "")
         {
-            var usuariosDTO = _servicioUsuario.TraerPorNombre(nombre);
-            var viewModel = new UsuarioIndexViewModel()
-            {
-                Usuarios = usuariosDTO
-            };
+            var usuariosDTO = _servicioUsuario.TraerPorNombre(n);
+            var viewModel = new UsuarioIndexViewModel(usuariosDTO);
             return View(viewModel);
-        }
-
-        // GET: UsuarioController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
         }
 
         // GET: UsuarioController/Create
@@ -66,10 +57,6 @@ namespace BancoUsuariosWebApp.Controllers
         public ActionResult Edit(int id)
         {
             var usuarioDTO = _servicioUsuario.Get(id);
-            if (usuarioDTO == null)
-            {// Si no se encuentra el usuario, redirigir a una página de error o retornar un error 404
-                return NotFound();
-            }
             var usuarioViewModel = new UsuarioFormViewModel(usuarioDTO);
             return View(usuarioViewModel);
         }
@@ -82,30 +69,7 @@ namespace BancoUsuariosWebApp.Controllers
             try
             {
                 var usuarioDTO = _servicioUsuario.Get(id);
-                if (usuarioDTO == null)
-                {
-                    ViewBag.Message = "Usuario no encontrado.";
-                    return View(usuario);
-                }
-
-                bool updated = false;
-                if (usuario.Nombre != usuarioDTO.Nombre)
-                {
-                    usuarioDTO.Nombre = usuario.Nombre;
-                    updated = true;
-                }
-                if (usuario.Apellido != usuarioDTO.Apellido)
-                {
-                    usuarioDTO.Apellido = usuario.Apellido;
-                    updated = true;
-                }
-                if (usuario.Email != usuarioDTO.Email)
-                {
-                    usuarioDTO.Email = usuario.Email;
-                    updated = true;
-                }
-
-                if (updated)
+                if (UsuarioFueModificado(usuarioDTO, usuario))
                 {
                     _servicioUsuario.Update(id, usuarioDTO);
                 }
@@ -114,10 +78,28 @@ namespace BancoUsuariosWebApp.Controllers
             }
             catch (Exception e)
             {
-                // Proporciona información más detallada, idealmente con logging en lugar de mostrar directamente en la vista.
                 ViewBag.Message = "Error al actualizar el usuario: " + e.Message;
                 return View(usuario);
             }
+        }
+        private bool UsuarioFueModificado(UsuarioDTO usuarioDTO, UsuarioFormViewModel usuario) {
+            bool updated = false;
+            if (usuario.Nombre != usuarioDTO.Nombre)
+            {
+                usuarioDTO.Nombre = usuario.Nombre;
+                updated = true;
+            }
+            if (usuario.Apellido != usuarioDTO.Apellido)
+            {
+                usuarioDTO.Apellido = usuario.Apellido;
+                updated = true;
+            }
+            if (usuario.Email != usuarioDTO.Email)
+            {
+                usuarioDTO.Email = usuario.Email;
+                updated = true;
+            }
+            return updated;
         }
         public ActionResult Delete(int id)
         {
